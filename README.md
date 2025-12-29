@@ -29,15 +29,21 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer**, **Cloud E
 
 ## 📂 Featured Repositories  
 
-### [Bhagavad Gita GPT](https://github.com/AbhishekBiradar/BhagavadGita-GPT)  
-🚀 *A GPT-based character-level language model for generating text inspired by the Bhagavad Gita.*  
-- Implements state-of-the-art transformer architecture.
-- Optimized for character-level text generation.  
+### [Winzone](https://github.com/Aashu-1911/Winzone)  
+🚀 A gaming web platform focused on competitive play and user engagement with real-time interactions.
+-Built with React and Tailwind CSS for a modern, responsive UI.
+-Backend powered by Node.js and Express with MongoDB for data management.
+-Features user authentication, leaderboards, and wallet/points system.
+-Includes an admin panel for managing users and platform data.
+🚧 Currently under active development. 
 
-### [Portfolio Website](https://aabi.pythonanywhere.com/)  
-🌐 *A sleek, responsive portfolio showcasing my projects and skills.*  
-- Built using **React** and **Node.js**.
-- Features categorized project sections, skill tables, and a modern design.
+### [Portfolio Website](https://ashish-biradar-portfolio.vercel.app/)  
+💼 A personal portfolio website showcasing my projects, technical skills, and professional profile.
+Developed using HTML, CSS, and JavaScript.
+Includes About Me, Projects, Skills, and Contact sections.
+Provides resume download functionality for recruiters.
+Designed with a clean, minimal layout focused on clarity and usability.
+🔗 Live Demo: (https://ashish-biradar-portfolio.vercel.app/)
 
 ---
 
@@ -47,28 +53,19 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer**, **Cloud E
 - React.js, HTML5, CSS3, JavaScript  
 
 ### Backend  
-- Django, Flask, REST APIs  
-
-### AI/ML  
-- PyTorch, Hugging Face, NLTK,  
+- Node.js, Express.js, REST APIs   
 
 ### Databases  
-- MySQL, PostgreSQL  
+- MySQL, PostgreSQL,MongoDB  
 
 ### Tools  
 - Git, Docker, VS Code, Jupyter  
 
 ---
 
-## 🏆 LeetCode Progress  
-
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=aabi0207&theme=light)
-
----
-
 ## 📬 Get in Touch  
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abhishek-biradar-915404281) or drop an email at **abhishekbiradar0207@gmail.com**. I'm always open to interesting collaborations and discussions!  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ashish-biradar-8390b6354/) or drop an email at **ashishbiradar.1911@gmail.com**. I'm always open to interesting collaborations and discussions!  
 
 ---
 
