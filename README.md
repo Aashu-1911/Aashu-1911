@@ -1,16 +1,74 @@
-## Hi there 👋
+# 👋 Hi, I'm Ashish Biradar!
 
-<!--
-**Aashu-1911/Aashu-1911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate **Software Developer**, **AI Enthusiast**, and **Problem Solver** who loves building impactful projects and solving real-world problems with code. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔧 **Tech Stack**:  
+  Proficient in **C++**, **Java**, **JavaScript**, **React**, **Express.js**, **Node.js**, and **Devops**. I enjoy working across the stack, whether it's designing elegant UIs or crafting robust backend systems.
+
+- 🧠 **What I Love**:  
+  Developing Real world Projects, solving challenging coding problems, and creating user-centric applications that make a difference.
+
+- 💡 **Ongoing Projects**:  
+  1. **Bhagavad Gita GPT** – Leveraging transformers for spiritual text modeling.  
+  2. **Portfolio Website** – Showcasing my projects and skills with a personal touch.  
+
+---
+
+## 🌟 Highlights  
+
+- 🏗️ **Portfolio**: [https://abhishek-biradar.vercel.app/](https://abhishek-biradar.vercel.app/)
+- 🧩 **Problem Solving**: Check out my LeetCode progress: [leetcode.com/aabi0207](https://leetcode.com/aabi0207/)  
+- 🌐 **LinkedIn**: [Abhishek Biradar](https://www.linkedin.com/in/abhishek-biradar-915404281)  
+- 📩 **Email**: abhishekbiradar0207@gmail.com  
+
+---
+
+## 📂 Featured Repositories  
+
+### [Bhagavad Gita GPT](https://github.com/AbhishekBiradar/BhagavadGita-GPT)  
+🚀 *A GPT-based character-level language model for generating text inspired by the Bhagavad Gita.*  
+- Implements state-of-the-art transformer architecture.
+- Optimized for character-level text generation.  
+
+### [Portfolio Website](https://aabi.pythonanywhere.com/)  
+🌐 *A sleek, responsive portfolio showcasing my projects and skills.*  
+- Built using **React** and **Django**.
+- Features categorized project sections, skill tables, and a modern design.
+
+---
+
+## 💻 Technologies I Work With
+
+### Frontend  
+- React.js, HTML5, CSS3, JavaScript  
+
+### Backend  
+- Django, Flask, REST APIs  
+
+### AI/ML  
+- PyTorch, Hugging Face, NLTK,  
+
+### Databases  
+- MySQL, PostgreSQL  
+
+### Tools  
+- Git, Docker, VS Code, Jupyter  
+
+---
+
+## 🏆 LeetCode Progress  
+
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=aabi0207&theme=light)
+
+---
+
+## 📬 Get in Touch  
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abhishek-biradar-915404281) or drop an email at **abhishekbiradar0207@gmail.com**. I'm always open to interesting collaborations and discussions!  
+
+---
+
