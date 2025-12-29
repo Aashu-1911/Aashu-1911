@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ashish Biradar!
 
-Welcome to my GitHub profile! I'm a passionate **Software Developer**, **AI Enthusiast**, and **Problem Solver** who loves building impactful projects and solving real-world problems with code. 
+Welcome to my GitHub profile! I'm a passionate **Software Developer**, **Cloud Enthusiast**, and **Problem Solver** who loves building impactful projects and solving real-world problems with code. 
 
 ---
 
@@ -13,17 +13,17 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer**, **AI Enth
   Developing Real world Projects, solving challenging coding problems, and creating user-centric applications that make a difference.
 
 - 💡 **Ongoing Projects**:  
-  1. **Bhagavad Gita GPT** – Leveraging transformers for spiritual text modeling.  
+  1. **Convo Chat Website** – A WhatsApp-style real-time chat web application.  
   2. **Portfolio Website** – Showcasing my projects and skills with a personal touch.  
 
 ---
 
 ## 🌟 Highlights  
 
-- 🏗️ **Portfolio**: [https://abhishek-biradar.vercel.app/](https://abhishek-biradar.vercel.app/)
-- 🧩 **Problem Solving**: Check out my LeetCode progress: [leetcode.com/aabi0207](https://leetcode.com/aabi0207/)  
-- 🌐 **LinkedIn**: [Abhishek Biradar](https://www.linkedin.com/in/abhishek-biradar-915404281)  
-- 📩 **Email**: abhishekbiradar0207@gmail.com  
+- 🏗️ **Portfolio**: [https://ashish-biradar-portfolio.vercel.app/](https://ashish-biradar-portfolio.vercel.app/)
+- 🧩 **Problem Solving**: Check out my LeetCode progress: [leetcode.com/Aashu1106](https://leetcode.com/u/Aashu1106/)  
+- 🌐 **LinkedIn**: [Ashish Biradar](https://www.linkedin.com/in/ashish-biradar-8390b6354/)  
+- 📩 **Email**: ashishbiradar.1911@gmail.com  
 
 ---
 
@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer**, **AI Enth
 
 ### [Portfolio Website](https://aabi.pythonanywhere.com/)  
 🌐 *A sleek, responsive portfolio showcasing my projects and skills.*  
-- Built using **React** and **Django**.
+- Built using **React** and **Node.js**.
 - Features categorized project sections, skill tables, and a modern design.
 
 ---
