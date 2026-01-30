@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer**, **Cloud E
 ## 🚀 About Me
 
 - 🔧 **Tech Stack**:  
-  Proficient in **C++**, **Java**, **JavaScript**, **React**, **Express.js**, **Node.js**, and **Devops**. I enjoy working across the stack, whether it's designing elegant UIs or crafting robust backend systems.
+  Proficient in **C++**, **JavaScript**, **React**, **Express.js**, **Node.js**. I enjoy working across the stack, whether it's designing elegant UIs or crafting robust backend systems.
 
 - 🧠 **What I Love**:  
   Developing Real world Projects, solving challenging coding problems, and creating user-centric applications that make a difference.
