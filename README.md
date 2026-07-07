@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ashish Biradar!
 
-Welcome to my GitHub profile! I'm a passionate **Software Developer**, **Cloud Enthusiast**, and **Problem Solver** who loves building impactful projects and solving real-world problems with code. 
+Welcome to my GitHub profile! I'm a passionate **Software Developer**, **Cloud Enthusiast**, and **Problem Solver** who loves building impactful projects and solving real-world problems with code.
 
 ---
 
