@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer**, **Cloud E
 
 ## 🌟 Highlights  
 
-- 🏗️ **Portfolio**: [https://ashish-biradar-portfolio.vercel.app/](https://ashish-biradar-portfolio-alpha.vercel.app/)
+- 🏗️ **Portfolio**: [https://ashish-biradar-portfolio-alpha.vercel.app/](https://ashish-biradar-portfolio-alpha.vercel.app/)
 - 🧩 **Problem Solving**: Check out my LeetCode progress: [leetcode.com/Aashu1106](https://leetcode.com/u/Ashish_1911/)  
 - 🌐 **LinkedIn**: [Ashish Biradar](https://www.linkedin.com/in/ashish-biradar-8390b6354/)  
 - 📩 **Email**: ashishbiradar.1911@gmail.com  
