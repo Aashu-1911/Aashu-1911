@@ -37,13 +37,13 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer**, **Cloud E
 -Includes an admin panel for managing users and platform data.
 🚧 Currently under active development. 
 
-### [Portfolio Website](https://ashish-biradar-portfolio.vercel.app/)  
+### [Portfolio Website](https://ashish-biradar-portfolio-alpha.vercel.app/)  
 💼 A personal portfolio website showcasing my projects, technical skills, and professional profile.
 Developed using HTML, CSS, and JavaScript.
 Includes About Me, Projects, Skills, and Contact sections.
 Provides resume download functionality for recruiters.
 Designed with a clean, minimal layout focused on clarity and usability.
-🔗 Live Demo: (https://ashish-biradar-portfolio.vercel.app/)
+🔗 Live Demo: (https://ashish-biradar-portfolio-alpha.vercel.app/)
 
 ---
 
