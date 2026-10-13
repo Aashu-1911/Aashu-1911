@@ -68,7 +68,7 @@ DSA · OOP · Operating Systems · Computer Networks · DBMS
 - Built product/catalog management with image uploads and dynamic collections.
 - Deployed on a self-managed VPS using Nginx and HTTPS.
 
-🔗 [Portfolio](https://ashish-biradar-portfolio-alpha.vercel.app/)
+🔗 [Live-Website](https://divine-aura.street-up.in/)
 
 ---
 
